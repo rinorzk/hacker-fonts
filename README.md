@@ -10,3 +10,4 @@ collection of my fav fonts
 - Ubuntu Mono
 - Menlo
 - Consolas
+- IBM Plex Mono
