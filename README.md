@@ -11,3 +11,4 @@ collection of my fav fonts
 - Menlo
 - Consolas
 - IBM Plex Mono
+- Epson MX-80
